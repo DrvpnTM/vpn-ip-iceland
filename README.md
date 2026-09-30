@@ -1,18 +1,17 @@
-# VPN IP Iceland — Dr VPN
+# VPN IP Iceland — Fast, Secure VPN for Iceland
 
-**VPN IP Iceland** is a fast, secure and free VPN for Android. Get a **Iceland IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Iceland** is a free, open-source, ad-free VPN app for Android, built for users in Iceland. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Iceland (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_is_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-iceland/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Iceland IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Iceland, Iceland VPN, VPN IP Iceland, Iceland IP address, free VPN Iceland, buy VPN Iceland, fast VPN Iceland, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Iceland, free VPN Iceland, fast VPN, VPN IP Iceland, Android VPN, unblock websites Iceland.</sub>
